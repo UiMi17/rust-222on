@@ -1,2 +1,6 @@
 /Cargo.lock
 target
+/.idea/FirstPractice.iml
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/.gitignore
