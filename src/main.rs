@@ -11,8 +11,6 @@ mod chapter10;
 mod chapter11;
 mod chapter12;
 mod chapter13;
-mod chapter14;
-mod chapter15;
 mod chapter16;
 mod chapter17;
 mod chapter18;
